@@ -41,25 +41,14 @@ class HouseType extends Admin
                 $root = $info->getSaveName();
                 $data1 = import_excel('./uploads/' . $root);
                 $data = array_splice($data1, 1);
+                foreach ($data as $val){
+                    $lastdata=array();
+                    
+                }
                 error_log("不清楚1188812".var_export($data,true));
             }
-//
-//            error_log("不清楚1112444".var_export($file,true));
-//
-//
-//            $path = ROOT_PATH . 'public' . DS . 'uploads/';
-//            $info = nFileUpload($file, $path);
-//            error_log("不清楚1112".var_export($path,true));
-//
-//            if($info){
-//                $root=$file['file']['name'];
 
-//
-//
-//                $data1=import_excel('/uploads/files/20180208/473349eaac2d0d6c6f4f427ace2534c1.xlsx');
-//                $data=array_splice($data1,1);
-//                                error_log("不清楚1188812".var_export($data,true));
-                $this->success('导入成功', 'index');
+            $this->success('导入成功', 'index');
 //            }else{
 //                $this->error('导入失败');
 //            }

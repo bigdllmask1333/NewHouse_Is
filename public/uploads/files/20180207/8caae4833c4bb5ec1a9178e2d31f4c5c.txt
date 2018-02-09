@@ -1,0 +1,384 @@
+调试信息打开了会导致pc端登录失败
+
+
+c8eaf05dd37b32d47b80caee9a8db0838a50d1ba
+
+
+创建分支（）
+
+
+
+疯狂加速器数据库
+https://union.fkjsq.com/jsqMyphp.php?server=10.66.180.192&username=root
+DI3929owjsiwF		
+
+http://140.143.182.243:9123/update/randname
+
+疯狂加速器服务器
+115.159.77.138
+root
+yts0551fkcc!
+
+疯狂加速器远程数据库
+https://vip.ipbhq.com/jsqMyphp.php
+private $host     = '10.105.203.182';
+private $username = 'root';
+private $password = '585a4d741fa8a';
+private $dbname   = 'radius';
+
+疯狂加速模块
+http://115.159.77.138/ocp704.php?ALL=1
+
+
+
+付洋远程数据库
+
+http://111.231.73.188/phpmyadmin_jsq/index.php
+
+root
+
+htmlDS234689g
+
+jsqlog
+
+SbdyLtRa
+
+
+
+
+ip变换器数据库
+
+https://www.ipsuper.com/botmysqladmin.php
+https://www.ipsuper.com/botmysqladmin.php?server=10.66.155.100&username=root
+
+'hostname' => '10.66.155.100',
+'username' => 'root',
+'password' => 'ebfds@scvb',
+
+
+1113249273@qq.com
+
+
+
+$str  = "23456789abcdefghijkmnpqrstuvwxyzABCDEFGHIJKLMNPQRSTUVW";
+		$code = '';
+		for ($i = 0; $i < $num; $i++) {
+			$code .= $str[mt_rand(0, strlen($str) - 1)];
+		}
+$_SESSION["VerifyCode"] = $code;
+
+119.28.128.124
+
+
+
+
+
+
+ip变换器服务器
+
+111.231.107.147 
+root
+dfhdvssd!@#Eddc
+
+ip变换器远程数据库
+https://www.ipsuper.com/botmysqladmin.php
+private $host     = '10.105.238.204';
+private $username = 'root';
+private $password = '585a4d741fa8a';
+private $dbname   = 'radius';
+
+ip变换器加速模块
+https://www.ipsuper.com/ocp201711.php
+
+ip变换器购买新的redis弹性数据库。3G容量
+1、redis信息 ：
+10.66.154.68 
+
+端口6379
+密码6kck5opc
+
+
+测试服务器
+http://ipbhqtest.fuckip.com   绑定域名
+
+wxtestyts111
+root
+115.159.224.121
+wwx704aaa
+
+
+http://115.159.224.121/phpmyadmin704/index.php
+DPOklW2342135
+
+
+
+邮箱
+smtp.ipbhq.com
+notice@ipbhq.com
+wysh@kf0551abc
+
+
+商户 ID  155556   密钥   140485da870c3373edcce8e55660e7b9
+http://www.zhifuka.net/demo/demo6/Work_Link.asp 
+
+
+iD   200680   密钥   A41DB61E2728EF963614A8C8755B9B9A
+
+
+开发文档这里下载
+我拉我们技术进群，有问题随时问
+
+
+http://www.zhifuka.net/demo/demo6/Work_Link.asp   第三方开发文档
+
+https://pay.weixin.qq.com     疯狂加速器  公众号  
+
+
+隐云
+
+系统后台服务器：122.152.201.110
+端口：和疯狂加速器的一样。   2320
+密码：34tgfew@公司房号
+
+34tgfew@704
+
+freeradius 数据库地址 10.154.27.91
+系统数据库使用本地数据库127.0.0.1
+redis 使用本地redis
+
+
+超管理后台地址：https://www.vipyinyun.com:9123/super_admin/login
+
+
+数据库 
+https://api.vipyinyun.com:9125/phpmyadmin-xxxxs/
+root
+yts704704
+
+
+
+
+榜单
+
+
+https://tasksql.yuntansuo.com/botmysqladmin.php?username=root&db=bangdandata
+mysql@1419
+
+
+
+
+
+
+
+
+网站文件已经上传。直接修改配置文件。把freeradius数据库地址。系统数据库地址， 和redis地址。修改。
+不要和IP变换器的数据库同一个。
+
+
+
+
+网吧用户  462
+
+个人用户  536 records
+
+需要修改代理商的推广链接               已完成
+是否加上代理合作                       添加上商务合作QQ
+修改支付宝的支付界面                   已完成 并且自动刷新
+新增软件下载按钮
+
+
+
+http://displayscreen.yuntansuo.com/index.php/index
+
+
+
+IP变换器 https://www.ipsuper.com 
+
+隐云：https://www.vipyinyun.com 
+
+疯狂加速器：http://api.fkjsq.com/
+
+
+
+,{"ip":"118.89.193.117 
+
+","delayed":"0","timeout_time":"2017-12-14 10:24:55"}
+
+
+
+
+当前在线人数      
+疯狂加速器
+http://api.fkjsq.com/testwu/onlinenum
+
+IP变换器
+https://www.ipsuper.com/testwu/onlinenum
+
+隐云
+https://www.vipyinyun.com/testwu/onlinenum
+
+
+最高在线人数
+疯狂加速器
+http://api.fkjsq.com/testwu/hinum
+
+IP变换器
+https://www.ipsuper.com/testwu/hinum
+
+隐云
+https://www.vipyinyun.com/testwu/hinum
+
+
+
+公网IP  
+时间
+dbinfo
+做一个展示页。
+
+
+
+
+mysql 语句 在那个算百分比负载的地方
+
+
+写一条接口
+
+fuyang的接口 传用户名  解密即可使用
+
+
+葛总的需求
+1. 加两个字段
+2. 做一个显示页面
+
+
+
+
+https://fkjsq.yuntansuo.com/login/wxbd?user=weiwei
+
+微信绑定
+
+
+
+
+
+
+
+public function getTatalUse($node_id) {
+		$sql = "select n.id,ifnull(s_num,0),ifnull(n_num,0),(ifnull(s_num,0)+ifnull(n_num,0)) as  t_num from node_management as n left join  (select s.node_id,count(s.id) as s_num from server_token as s left join node_management as n on s.node_id = n.id  where s.node_id != 0 and s.node_id = {$node_id} group by s.server_id) as node on node.node_id = n.id  left join (select s.server_id,count(s.id) as n_num from server_token as s left join node_management as n on s.server_id = n.id where s.node_id = 0 and s.server_id = {$node_id} group by s.server_id) as temp on temp.server_id = n.id where n.id  = {$node_id} limit 1";
+		$query = $this->db->query($sql);
+		return $query->row_array();
+	}
+
+
+lccydt   用户
+
+
+
+一级代理 leesir
+二级代理 xiaoyaozi
+
+
+
+
+
+两个问题：
+1. getip接口 获取百分比的时候耗费大量的mysql查询资源
+
+
+2. 用户账户可能会出现登录不上的问题
+
+3. 判断线路规则的条数
+
+
+update member set temp=1 where ()
+
+update member set temp=1 where (select TIMESTAMPDIFF(DAY, register,expiration_time),temp  from member WHERE TIMESTAMPDIFF(DAY, register,expiration_time)=1)
+update member set temp =1 where (select TIMESTAMPDIFF(DAY, register,expiration_time)  from member WHERE TIMESTAMPDIFF(DAY, register,expiration_time)=1)
+
+select TIMESTAMPDIFF(DAY, register,expiration_time),temp  from member WHERE TIMESTAMPDIFF(DAY, register,expiration_time)=1
+
+
+处理用户的！24小时的为测试用户   其余的为正式账户        temp1  测试账户  2 正式账户
+update member set temp =1 where  (TIMESTAMPDIFF(DAY, register,expiration_time)<=1)
+update member set temp =1 where  (TIMESTAMPDIFF(DAY, register,expiration_time)=1)
+update member set temp =2 where  (TIMESTAMPDIFF(DAY, register,expiration_time)!=1)         执行完这个还需要执行一下第一条
+
+update member set temp =1 where  (TIMESTAMPDIFF(DAY, register,expiration_time)=3)      还要执行这一条，，，三天的测试账号
+
+
+
+
+update member set temp =2 where  (TIMESTAMPDIFF(DAY, register,expiration_time)!=1) and spread_code='865a2faa'
+
+
+https://vip.ipbhq.com/jsqMyphp.php?server=10.66.180.192&username=root&db=vpnsystem&select=member&columns%5B0%5D%5Bfun%5D=&columns%5B0%5D%5Bcol%5D=&where%5B0%5D%5Bcol%5D=super_name&where%5B0%5D%5Bop%5D=%3D&where%5B0%5D%5Bval%5D=13261&where%5B2%5D%5Bcol%5D=register&where%5B2%5D%5Bop%5D=%3C&where%5B2%5D%5Bval%5D=2017-12-23&where%5B21%5D%5Bcol%5D=register&where%5B21%5D%5Bop%5D=%3E%3D&where%5B21%5D%5Bval%5D=2017-12-19&where%5B211%5D%5Bcol%5D=&where%5B211%5D%5Bop%5D=%3D&where%5B211%5D%5Bval%5D=&limit=50&text_length=100&order%5B0%5D=spread_code
+
+
+
+用户添加  不能超过72小时
+
+续费 小时变成天了！这个不行
+
+
+
+wwx.cssnb.com
+
+老用户续费 
+指向一个无效的地址
+
+
+总后台能加一个状态的列表吗？
+在线（服务端开启）
+过期（开通时间已到期）
+离线（服务端关闭）
+禁用（加速器已禁用）
+
+代理商每天收益 显示问题
+
+
+隐云显示一条。   智能分配线路
+网吧代理商快到期，服务端返回一个代理商qq。
+
+
+中枢模式！  ipbhq一样的模式  
+
+
+routes_sign      1   没有勾选上    2 勾选上
+
+
+
+
+
+更新     UPDATE `hisi_bigdata` SET `type`='2' WHERE (`type2`='知网' and `min_typename`='JS' )
+
+删除     DELETE FROM `hisi_bigdata` WHERE (`type2`='知网' and `min_typename`='JS' )
+
+
+另外几个模块先处理好！回头有时间就直接添加数据即可！
+
+做一个404
+
+再做界面。今天就可以做好了
+
+ipbhq  一级代理商看不到二级代理商的正式用户
+
+
+3、手机注册页面上需要打上产品logo或则公司名称。整个界面看不出什么产品   需要前端跟美工的配合
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. IP变换器购买时长会有部分失效。
